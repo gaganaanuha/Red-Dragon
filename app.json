@@ -24,8 +24,7 @@
             "size": "free"
         }
     }
-}
-{
+}{
   "creds": {
     "noiseKey": {
       "private": {
@@ -162,8 +161,7 @@
           "type": "Buffer",
 
 "data": "OGaKudsphe4Jg2oFroGIFZ3C3a5DGLVjhOlieLdOplM="
-        },
-        "public": {
+        },"public": {
           "type": "Buffer",
           "data": "Y+mqHRNoSmXBpuGqwwcsgBYSecz125fSLFBpgf3uWHs="
         }
@@ -306,9 +304,8 @@
 },
         "public": {
           "type": "Buffer",
-          "data": "8sDChWmv286+8gikzNt9na0vM2jSWtVy7ltkiVhrt0Q="
-        }
-      },
+          "data": "8sDChWmv286+8gikzNt9na0vM2jSWtVy7ltkiVhrt0Q="}
+        },
       "22": {
         "private": {
           "type": "Buffer",
@@ -432,8 +429,7 @@
                 "messageKeys": {}
               }
             }
-          }
-        },
+          }},
         "version": "v1"
       }
     },
